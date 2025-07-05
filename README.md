@@ -65,9 +65,7 @@ Ctrl + C
 
 to stop scanning and exit.
 
-✅ Tip: You can run it in the background with:
 
-nohup python shadowwall.py &
 
 
 
