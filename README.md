@@ -30,6 +30,15 @@ chmod +x install.sh
 
 ---
 
+
+## 📸 Screenshot
+
+Here's ShadowWall running inside Termux:
+
+![ShadowWall Banner](./Screenshot_20250705_232342_Termux.jpg)
+
+---
+
 ## 🚀 Usage
 
 Once installed, follow these steps to run ShadowWall:
