@@ -34,7 +34,7 @@ chmod +x install.sh
 
 Once installed, follow these steps to run ShadowWall:
 
-### 🔹 Step 1: Open Termux and navigate to the folder
+ 🔹 Step 1: Open Termux and navigate to the folder
 ```bash
 cd shadowwall
 Step 2: Start the ShadowWall program
