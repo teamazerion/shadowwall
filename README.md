@@ -39,8 +39,4 @@ cd shadowwall
 chmod +x install.sh
 ./install.sh
 
-## 📸 Screenshot
 
-Here’s ShadowWall running inside Termux:
-
-![ShadowWall Banner](https://github.com/teamazerion/shadowwall/blob/main/Screenshot_20250705_232342_Termux.jpg?raw=true)
