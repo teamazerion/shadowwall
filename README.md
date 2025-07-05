@@ -28,6 +28,8 @@ cd shadowwall
 chmod +x install.sh
 ./install.sh
 
+---
+
 ## 🚀 Usage
 
 Once installed, follow these steps to run ShadowWall:
@@ -64,6 +66,32 @@ Press:
 Ctrl + C
 
 to stop scanning and exit.
+
+---
+
+## 🏢 About Azerion HQ
+
+**Azerion HQ** is an Indian cybersecurity and innovation company focused on creating mobile-first, lightweight tools for privacy and digital defense.
+
+We operate through two powerful branches:
+- 🔬 **@azerionhqforbioscience** – Biotech and research innovations  
+- 📱 **@azerionhqforappdevolpment** – App & tool development, automation, and Termux-based systems
+
+Our vision is to:
+- Build advanced yet accessible tools for ethical hacking and security.
+- Empower mobile users with defensive technologies.
+- Drive science + tech innovation for youth creators.
+
+🔗 Follow us:
+- Main: [@teamazerion](https://instagram.com/teamazerion)
+- Bioscience: [@azerionhqforbioscience](https://instagram.com/azerionhqforbioscience)
+- App Dev: [@azerionhqforappdevolpment](https://instagram.com/azerionhqforappdevolpment)
+
+📧 Business inquiries: **azerionthalvek@gmail.com
+
+---
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 
 
