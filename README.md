@@ -33,8 +33,7 @@ chmod +x install.sh
 
 ## 📸 Screenshot
 
-Here's ShadowWall running inside Termux:
-
+Here's ShadowWall running
 ![ShadowWall Banner](./Screenshot_20250705_232342_Termux.jpg)
 
 ---
