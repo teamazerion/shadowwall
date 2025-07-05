@@ -68,25 +68,7 @@ to stop scanning and exit.
 ✅ Tip: You can run it in the background with:
 
 nohup python shadowwall.py &
----
 
-## 🏢 About Us — Azerion HQ
-
-**Azerion HQ** is an independent cybersecurity and tech innovation company based in India. We specialize in:
-
-- 🔐 Cybersecurity tools & ethical hacking solutions
-- 🤖 App development (Android & Termux-based automation)
-- 🧬 Bioscience & research projects (via @azerionhqforbioscience)
-- 📱 Tech innovation for mobile platforms (via @azerionhqforappdevolpment)
-
-We are dedicated to building lightweight, accessible tools that protect user privacy and enhance mobile security.
-
-🔗 Follow us on Instagram:
-- Main: [@teamazerion](https://instagram.com/teamazerion)
-- Bioscience: [@azerionhqforbioscience](https://instagram.com/azerionhqforbioscience)
-- App Dev: [@azerionhqforappdevolpment](https://instagram.com/azerionhqforappdevolpment)
-
-📧 Business inquiries: teamazerion@protonmail.com
 
 
 
